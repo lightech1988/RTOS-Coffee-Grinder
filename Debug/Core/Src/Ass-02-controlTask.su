@@ -1,0 +1,2 @@
+../Core/Src/Ass-02-controlTask.c:21:6:display_state_lcd	16	static
+../Core/Src/Ass-02-controlTask.c:48:6:StartControlTask	64	static

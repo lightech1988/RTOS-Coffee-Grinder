@@ -1,0 +1,9 @@
+../Core/Src/freertos.c:83:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:96:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/freertos.c:110:6:MX_FREERTOS_Init	184	static
+../Core/Src/freertos.c:175:13:StartDefaultTask	16	static
+../Core/Src/freertos.c:193:13:StartControlTask	16	static
+../Core/Src/freertos.c:211:13:StartTouchPanelTask	16	static
+../Core/Src/freertos.c:229:13:StartGrindTimerTask	16	static
+../Core/Src/freertos.c:247:13:StartADCTask	16	static
+../Core/Src/freertos.c:259:13:PauseTimerCallback	16	static

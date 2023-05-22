@@ -1,0 +1,2 @@
+../Core/Src/Ass-02-adcTask.c:22:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/Ass-02-adcTask.c:33:6:StartADCTask	16	static
